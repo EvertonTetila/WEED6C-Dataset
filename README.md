@@ -11,7 +11,8 @@ Each image collected with the UAV was annotated with LabelImg \citep{TZUTALIN}, 
 
 Table 1 shows the total number of weeds recorded per species. The number of samples used in the dataset reflects the number of occurrences of each species under real field conditions.
 
-![image](https://github.com/user-attachments/assets/604f8fad-9428-4245-adac-2e97ae247e90)
+![image](https://github.com/user-attachments/assets/5b0c531d-4801-4483-b5fd-8f561d38cf62)
+
 
 # Dataset download 
 
