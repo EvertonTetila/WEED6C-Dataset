@@ -22,4 +22,4 @@ Link: http://evertontetila.ws.ufgd.edu.br/Datasets/WEED6C-Dataset.zip
 
 This dataset was created by the authors and should be cited as follows:
 
-TETILA, EVERTON CASTELÃO ; WIRTI-JR, GELSON ; HIGAB, GABRIEL TOSHIO HIROKAWA ; BESSA, ANDERSON DA COSTA ; AMORIM, WILLIAN PARAGUASSU ; PISTORI, HEMERSON ;  BARBEDO, JAYME GARCIA ARNAL. Deep learning models for detection and recognition of weed species in corn crop. Crop Protection, 2025 (status: minor revision).
+TETILA, EVERTON CASTELÃO; WIRTI, GELSON ; HIGA, GABRIEL TOSHIO HIROKAWA ; DA COSTA, ANDERSON BESSA ; AMORIM, WILLIAN PARAGUASSU ; PISTORI, HEMERSON ; BARBEDO, JAYME GARCIA ARNAL. Deep learning models for detection and recognition of weed species in corn crop. CROP PROTECTION, v. 195, p. 107237, 2025. DOI: https://doi.org/10.1016/j.cropro.2025.107237
