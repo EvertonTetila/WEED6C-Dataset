@@ -45,6 +45,8 @@ During the revision, the original annotations were systematically reviewed using
 
 The annotation review increased the total number of labeled objects from 9,967 in WEED6C V1 to 15,289 in WEED6C V2.
 
+**Annotations:** 15,289 objects
+
 | Class | Species | V1 | V2 |
 |---|---|---:|---:|
 | Bittercress | *Cardamine bonariensis* | 1,541 | 3,807 |
