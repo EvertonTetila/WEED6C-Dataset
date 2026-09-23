@@ -41,7 +41,7 @@ http://evertontetila.ws.ufgd.edu.br/Datasets/WEED6C-Dataset.zip
 
 WEED6C V2 contains the same images as the original WEED6C dataset, but its annotations were systematically reviewed and curated.
 
-During the revision, previously unlabeled instances were added, inconsistent annotations were removed, imprecise bounding boxes were corrected, and some class labels were reassigned.
+During the revision, the original annotations were systematically reviewed using the Computer Vision Annotation Tool (CVAT). Previously unlabeled instances were added, inconsistent annotations were removed, imprecise bounding boxes were geometrically corrected, and some class labels were reassigned.
 
 The annotation review increased the total number of labeled objects from 9,967 in WEED6C V1 to 15,289 in WEED6C V2.
 
